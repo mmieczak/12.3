@@ -1,0 +1,12 @@
+Type your positive decimal number: 4
+Type your positive decimal number: 3
+Type your positive decimal number: 5
+Type your positive decimal number: 1
+Type your positive decimal number: 2
+Type your positive decimal number: 6
+Type your positive decimal number: -9
+This is negative value. Your number will not be added to the list
+Reversed order [ 6 2 1 5 3 4 ]
+Sum elements [ 4 + 3 + 5 + 1 + 2 + 6 = 21]
+Maximum element [ 6 ]
+Minimum element [ 1 ]
